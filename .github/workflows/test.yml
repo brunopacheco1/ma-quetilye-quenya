@@ -14,12 +14,12 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           persist-credentials: false
 
       - name: Set up Python from .python-version
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v7
         with:
           python-version-file: ".python-version"
 
@@ -36,7 +36,7 @@ jobs:
   render:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           persist-credentials: false
 
@@ -61,7 +61,7 @@ jobs:
       # Pull requests from forks get no preview link (preview.yml), so the
       # rendered book is attached to the run for reviewers to download.
       - name: Upload the rendered book
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: book
           path: _book/
