@@ -82,8 +82,8 @@ Inflected forms used in the chapter and their attested models:
 |------|--------|-------|------|--------------|------|
 | *á* | [á](https://eldamo.org/content/words/word-3322232159.html) | Q. | — | imperative particle | imperative particle: *á lasta!* |
 | *á na márië* | [á na márië](https://eldamo.org/content/words/word-1851019677.html) | Q. | — | be well | informal farewell |
-| *aiya* | [aiya](https://eldamo.org/content/words/word-1827512751.html) | Q. | — | hail; behold, lo | formal greeting |
-| *alla* | [alla](https://eldamo.org/content/words/word-3260046495.html) | Q. | — | welcome, hail | informal greeting |
+| *aiya* | [aiya](https://eldamo.org/content/words/word-1827512751.html) | Q. | — | hail; behold, lo | pronunciation example only: Tolkien restricts *aiya* to "great or holy persons as the Valar, or to Earendil" (PE17 p. 149), so it is not used between the characters |
+| *alla* | [alla](https://eldamo.org/content/words/word-3260046495.html) | Q. | — | welcome, hail | greeting between people ("Hail! Welcome!", PE17 p. 146) |
 | *amaurë* | [amaurë](https://eldamo.org/content/words/word-638905337.html) | Q. | * | dawn, early day, morning | dawn, morning; marked * by Eldamo |
 | *apárilë* | [apárilë](https://eldamo.org/content/words/word-1057275467.html?neo) | NQ. | — | afternoon | afternoon; neologism (the former chapter spelled it *aparilë*) |
 | *ar* | [ar](https://eldamo.org/content/words/word-1174557919.html) | Q. | — | and | and |

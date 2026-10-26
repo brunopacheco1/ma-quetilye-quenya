@@ -123,7 +123,12 @@ them to readers:
 
 - **Farewells:** *Namárië* (formal), *Á na márië!* (informal). *Mesta* is not
   used: it is Early Qenya only.
-- **Greetings:** *Aiya* (formal), *Alla* (informal).
+- **Greetings:** *Alla* between people, formal or not (Tolkien: "Hail!
+  Welcome!", PE17 p. 146); the formal register is carried by *Elen síla
+  lúmenn' omentielvo* and *Namárië*. *Aiya* is not a greeting between people:
+  Tolkien says it is "only addressed to great or holy persons as the Valar, or
+  to Earendil" (PE17 p. 149). It stays in chapter 1 only as a pronunciation
+  example.
 - **Aorist and present:** the aorist for general and habitual statements
   (*quetin Quenya* "I speak Quenya"), the present only for what is happening
   right now.
@@ -168,7 +173,7 @@ syllables (*ëa, ëo, oa, ië, ua*).
 | x | [ks] | |
 | y | [j] | always a consonant, as in *yes*: *yávië*, *aiya*. After *t*, *n* or *l* it is part of the palatals below |
 | v | [v] | |
-| w | [w] | inside a word (*Elenwë*). A word-initial *w* in older spellings is read [v], as *vilya*, "older *wilya*" |
+| w | [w] | after a consonant (*Elenwë*, *nwalmë*) and after *ai*, *oi* (*Aiwendil*). In older spellings a *w* at the start of a word or between vowels is read [v], as *vilya*, "older *wilya*", and *awa* for *ava* (Appendix E; PE17 pp. 76, 129; PE19 p. 72) |
 | s | [s] | always voiceless |
 | th, þ | [s] | the Noldor's sound: *Isil*, *súlë*. Words that Eldamo lists with [þ], such as *sinyë*, are read with s |
 | z | [r] | *áze* = *áre*; the Third Age had no z |
@@ -328,3 +333,4 @@ In the order they block work. Process: CONTRIBUTING.md,
 | 2026-10-10 | Pronunciation: archaic spellings read with Third Age sounds (*th* [s], initial *ñ* [n], initial *w* [v], *z* [r]); *h* standing alone is [h] everywhere; *ty, ny, ly* single palatals; Eldamo's weighting of digraphs for stress |
 | 2026-10-13 | Title *Ma Quetilyë Quenya?* with the regular aorist; chapters are *parandë*; present-day Avallónë with the five-character cast; *Á na márië!* as the informal farewell; the aorist for habitual statements; a Tengwar section per chapter in the Appendix E Quenya mode, Latin shown beside every Tengwar word |
 | 2026-10-16 | Digraphs keep counting as two consonants for stress (RGEO marks); status posts on a pinned issue; pictures as a separate sub-issue per chapter, generated pictures are placeholders; Code of Conduct reports through GitHub issues; WAV 48 kHz masters, MP3 published; CI builds every language profile; a shared credits page in every edition, built from CONTRIBUTORS.md |
+| 2026-10-26 | From Parma Eldalamberon 17: *Aiya* is not a greeting between people ("only addressed to great or holy persons as the Valar, or to Earendil", p. 149), so *Alla* is used in every dialogue and the formal register is carried by *Elen síla lúmenn' omentielvo* and *Namárië*; *w* between vowels is read [v] like initial *w* (pp. 76, 129) |
