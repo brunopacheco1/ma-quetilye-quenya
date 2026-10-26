@@ -23,9 +23,9 @@ of the style guide.
 
 ## 1.1 – `1-1.mp3` – greetings (word list)
 
-One speaker, each word twice: normal, then slow.
+One speaker, each item twice: normal, then slow.
 
-> Alla! … Á na márië! … Aiya! … Namárië!
+> Alla! … Á na márië! … Elen síla lúmenn' omentielvo! … Namárië!
 
 ## 1.2 – `1-2.mp3` – Elenwë and Nerdanel (informal)
 
@@ -42,8 +42,8 @@ Two friends meet in the street.
 
 A visitor greets the teacher at the door of the school.
 
-> **Elendil:** Aiya, Rúmil! Elen síla lúmenn' omentielvo.
-> **Rúmil:** Aiya, Elendil! Elen síla lúmenn' omentielvo. Manen nalyë?
+> **Elendil:** Alla, Rúmil! Elen síla lúmenn' omentielvo.
+> **Rúmil:** Alla, Elendil! Elen síla lúmenn' omentielvo. Manen nalyë?
 > **Elendil:** Mára, hantanyel. Ar elyë?
 > **Rúmil:** Mára. Namárië, Elendil!
 > **Elendil:** Namárië!
@@ -74,8 +74,8 @@ A pause of two seconds between exchanges.
 
 The teacher opens the class.
 
-> **Rúmil:** Aiya! Essenya ná Rúmil. Nanyë istyar. Mana esselya?
-> **Elenwë:** Aiya, Rúmil! Essenya ná Elenwë.
+> **Rúmil:** Alla! Essenya ná Rúmil. Nanyë istyar. Mana esselya?
+> **Elenwë:** Alla, Rúmil! Essenya ná Elenwë.
 > **Rúmil:** Ar elyë? Mana esselya?
 > **Voronwë:** Essenya ná Voronwë.
 > **Rúmil:** Ar elyë?

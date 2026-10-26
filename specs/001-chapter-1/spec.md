@@ -31,8 +31,8 @@ the chapter and the Eldamo links.
 
 1. **Given** a reader on the greetings section, **When** they read the two
    dialogues and listen to the recordings, **Then** they can tell apart the
-   informal pair (*Alla* / *Á na márië*) from the formal pair (*Aiya* /
-   *Namárië*).
+   informal pair (*Alla* / *Á na márië*) from the formal pair (*Alla! Elen
+   síla lúmenn' omentielvo* / *Namárië*).
 2. **Given** the "Mana esselya?" section, **When** the reader follows the
    pattern table, **Then** they can produce *Essenya ná …* with their own name.
 3. **Given** the "Mallo tulilyë?" section, **When** the reader follows the

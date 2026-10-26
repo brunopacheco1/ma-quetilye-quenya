@@ -19,7 +19,7 @@ if a generated picture differs from the prompt, update both.
 | `parande_1_essi.jpeg` | *Mana esselya?* | done |
 | `parande_1_mallo.jpeg` | *Mallo tulilyë?* | done |
 | `parande_1_noti.jpeg` | *Nóti* | done |
-| `greetings.jpeg` | *Aiya!... ar Namárië!* | done (4.3 mirrored) |
+| `greetings.jpeg` | *Alla!... ar Namárië!* | done (4.3 mirrored) |
 | `daytime.jpeg` | *Lúmë* | done |
 | `cover.jpeg` | book cover | done (title set by hand) |
 
@@ -227,13 +227,13 @@ at the lanterns.
 em fileira sobre uma rua ao anoitecer; por baixo, uma mulher e um homem em uma
 mesa de café apontam para as lanternas.
 
-## 4. `greetings.jpeg` – *Aiya!... ar Namárië!*
+## 4. `greetings.jpeg` – *Alla!... ar Namárië!*
 
 **Scene.** Four panels on one sunny morning in Avallónë. The columns carry the
 register and the rows carry the moment, so the picture reads like the table
 in the chapter. Left column, friends (*Alla!* … *Á na márië!*, dialogue 1.2):
-Elenwë and Nerdanel say hello, then goodbye. Right column, formal (*Aiya!* …
-*Namárië!*, dialogue 1.3): Rúmil and Elendil say hello, then goodbye. Friends
+Elenwë and Nerdanel say hello, then goodbye. Right column, formal (*Alla! Elen síla
+lúmenn' omentielvo!* … *Namárië!*, dialogue 1.3): Rúmil and Elendil say hello, then goodbye. Friends
 wave and hug; the formal pair shake hands with a slight bow. No hand on the
 chest: that gesture belongs to *Essenya ná…* in `parande_1_essi`.
 
@@ -293,7 +293,7 @@ Landscape 4:3, full-bleed: the drawing fills the whole picture, with no
 border, frame or blank margin.
 ```
 
-### 4.2 *Aiya!*
+### 4.2 *Alla! Elen síla lúmenn' omentielvo!*
 
 ```text
 Warm ink-and-watercolour illustration on lightly textured cream paper; thin

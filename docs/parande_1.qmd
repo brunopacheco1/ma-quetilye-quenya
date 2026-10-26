@@ -5,9 +5,9 @@ SPDX-License-Identifier: CC-BY-4.0
 -->
 # Parandë {#sec-parande-1}
 
-## Aiya!... ar Namárië!
+## Alla!... ar Namárië!
 
-![Aiya!](../images/greetings.jpg){#fig-greetings}
+![Alla!](../images/greetings.jpg){#fig-greetings}
 
 :::: {.lasta}
 **Á lasta!** 1.1
@@ -19,7 +19,7 @@ SPDX-License-Identifier: CC-BY-4.0
 ::::
 
 - **Alla!** … **Á na márië!**
-- **Aiya!** … **Namárië!**
+- **Elen síla lúmenn' omentielvo!** … **Namárië!**
 
 ### Elenwë ar Nerdanel {.unnumbered}
 
@@ -50,8 +50,8 @@ SPDX-License-Identifier: CC-BY-4.0
 
 ::::
 
-**Elendil:** Aiya, Rúmil! Elen síla lúmenn' omentielvo.\
-**Rúmil:** Aiya, Elendil! Elen síla lúmenn' omentielvo. Manen nalyë?\
+**Elendil:** Alla, Rúmil! Elen síla lúmenn' omentielvo.\
+**Rúmil:** Alla, Elendil! Elen síla lúmenn' omentielvo. Manen nalyë?\
 **Elendil:** Mára, hantanyel. Ar elyë?\
 **Rúmil:** Mára. Namárië, Elendil!\
 **Elendil:** Namárië!
@@ -117,8 +117,8 @@ SPDX-License-Identifier: CC-BY-4.0
 
 ::::
 
-**Rúmil:** Aiya! Essenya ná Rúmil. Nanyë istyar. Mana esselya?\
-**Elenwë:** Aiya, Rúmil! Essenya ná Elenwë.\
+**Rúmil:** Alla! Essenya ná Rúmil. Nanyë istyar. Mana esselya?\
+**Elenwë:** Alla, Rúmil! Essenya ná Elenwë.\
 **Rúmil:** Ar elyë? Mana esselya?\
 **Voronwë:** Essenya ná Voronwë.\
 **Rúmil:** Ar elyë?\
@@ -308,9 +308,9 @@ amaurë · endaurë · sinyë · lómë
 
 | | |
 |---|---|
-| ___ | **Rúmil:** Aiya, Elendil! Manen nalyë? |
+| ___ | **Rúmil:** Alla, Elendil! Manen nalyë? |
 | ___ | **Elendil:** Namárië! |
-| ___ | **Elendil:** Aiya, Rúmil! |
+| ___ | **Elendil:** Alla, Rúmil! |
 | ___ | **Rúmil:** Mára. Namárië, Elendil! |
 | ___ | **Elendil:** Mára, hantanyel. Ar elyë? |
 
@@ -358,7 +358,7 @@ Aman · mára · Elda · nér · Tirion · nís · Noldo · lómë · tulin · R
 | Elenwë · Valimarello · Vanya · Quenya | Elendil · Númenórello · Atan · Quenya |
 | Nerdanel · Tirionello · Noldo · Quenya | Voronwë · Endórello · Noldo · Quenya ar Sindarin |
 
-Aiya! Essenya ná ________. Mana esselya?\
+Alla! Essenya ná ________. Mana esselya?\
 Mallo tulilyë?\
 Ma quetilyë ________?\
 Namárië!
